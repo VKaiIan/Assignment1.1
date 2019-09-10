@@ -86,4 +86,5 @@ function clearBoard(number) {
   document.getElementById("c" + number).innerText = "";
 }
 startGame();
+skdchjsdbc;
 document.getElementById("board").addEventListener("click", nextMove);
